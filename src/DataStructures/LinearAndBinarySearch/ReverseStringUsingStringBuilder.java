@@ -1,4 +1,4 @@
-package DataStructures.linearandbinarysearch;
+package datastructures.linearandbinarysearch;
 /**
  * StringBuilder Problem 1: Reverse a String Using StringBuilder
  * 

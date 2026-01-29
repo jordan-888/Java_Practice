@@ -1,4 +1,4 @@
-package DataStructures.linkedlist;
+package datastructures.linkedlist;
 import java.util.Scanner;
 
 class StudentNode {

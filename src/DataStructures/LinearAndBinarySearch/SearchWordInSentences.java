@@ -1,4 +1,4 @@
-package DataStructures.linearandbinarysearch;
+package datastructures.linearandbinarysearch;
 /**
  * Linear Search Problem 2: Search for a Specific Word in a List of Sentences
  * 

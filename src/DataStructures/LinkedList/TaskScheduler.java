@@ -1,4 +1,4 @@
-package DataStructures.linkedlist;
+package datastructures.linkedlist;
 class TaskNode {
     int taskId;
     String taskName;

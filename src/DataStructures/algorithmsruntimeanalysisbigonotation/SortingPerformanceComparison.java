@@ -1,4 +1,4 @@
-package DataStructures.algorithmsruntimeanalysisbigonotation;
+package datastructures.algorithmsruntimeanalysisbigonotation;
 import java.util.Arrays;
 import java.util.Random;
 

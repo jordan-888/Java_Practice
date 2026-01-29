@@ -1,4 +1,4 @@
-package DataStructures.algorithmsruntimeanalysisbigonotation;
+package datastructures.algorithmsruntimeanalysisbigonotation;
 /**
  * Problem 3: String Concatenation Performance
  * 

@@ -1,4 +1,4 @@
-package DataStructures.linearandbinarysearch;
+package datastructures.linearandbinarysearch;
 import java.io.*;
 
 /**

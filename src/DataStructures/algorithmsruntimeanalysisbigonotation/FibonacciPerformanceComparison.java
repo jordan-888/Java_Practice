@@ -1,4 +1,4 @@
-package DataStructures.algorithmsruntimeanalysisbigonotation;
+package datastructures.algorithmsruntimeanalysisbigonotation;
 /**
  * Problem 5: Recursive vs Iterative Fibonacci Computation
  * 

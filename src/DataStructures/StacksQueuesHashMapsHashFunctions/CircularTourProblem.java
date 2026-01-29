@@ -1,4 +1,4 @@
-package DataStructures.stacksqueueshashmapshashfunctions;
+package datastructures.stacksqueueshashmapshashfunctions;
 /**
  * Circular Tour Problem
  * Problem: Given a set of petrol pumps with petrol and distance to the next
